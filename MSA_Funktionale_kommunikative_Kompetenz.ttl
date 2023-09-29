@@ -1,7 +1,7 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
-@prefix n0: <https://w3id.org/iqb/vf1/fm/#>. 
-@prefix n1: <https://w3id.org/iqb/vf1/fm/>. 
+@prefix n0: <https://w3id.org/iqb/v56/fm/#>. 
+@prefix n1: <https://w3id.org/iqb/v56/fm/>. 
 
 n1:p5f
 	 a skos:Concept;
@@ -484,7 +484,7 @@ n1:u2a
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "2023 erste Fremdsprache ESA und MSA - MSA Funktionale kommunikative Kompetenz"@de;
+	dct:title "Bildungsstandards Fremdsprachen Sek I 2023 - MSA Funktionale kommunikative Kompetenz"@de;
 	dct:description "Bis zum Mittleren Schulabschluss erreichen die Schülerinnen und Schüler im Wesentlichen das Niveau B1 des Gemeinsamen europäischen Referenzrahmens."@de;
 	skos:hasTopConcept
 		n1:x9t,

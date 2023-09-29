@@ -1,7 +1,7 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
-@prefix n0: <https://w3id.org/iqb/vf1/vm/#>. 
-@prefix n1: <https://w3id.org/iqb/vf1/vm/>. 
+@prefix n0: <https://w3id.org/iqb/v56/vm/#>. 
+@prefix n1: <https://w3id.org/iqb/v56/vm/>. 
 
 n1:e4z
 	 a skos:Concept;
@@ -70,7 +70,7 @@ n1:v9d
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "2023 erste Fremdsprache ESA und MSA - MSA Verfügen über sprachliche Mittel"@de;
+	dct:title "Bildungsstandards Fremdsprachen Sek I 2023 - MSA Verfügen über sprachliche Mittel"@de;
 	dct:description "Verfügen über sprachliche Mittel;Die sprachlichen Mittel – Wortschatz, Grammatik, Aussprache, Prosodie und Orthographie – sind Kompetenz bildende, funktionale Bestandteile des sprachlichen Systems und der Kommunikation. In der Vermittlung und bei der Aneignung der funktionalen kommunikativen Kompetenz haben die sprachlichen Mittel allerdings grundsätzlich dienende Funktion, da die gelingende Kommunikation im Vordergrund steht. Die kommunikativen Ziele können – u.a. abhängig vom erreichten Kompetenzniveau und der Kooperationsbereitschaft der Kommunikationspartnerinnen und -partner – mit unterschiedlichen sprachlichen Mitteln erreicht werden. Bei der Auswahl der zu vermittelnden sprachlichen Mittel sollte daher von einer kommunikativen Progression ausgegangen wer den, während die sprachstrukturelle Progression eine nachgeordnete, dienende Funktion hat. Die Vermittlung und die Aneignung von Wortschatz im Sinne komplexer lexiko-grammatischer Einheiten sind mit Blick auf die funktionale kommunikative Kompetenz zentral."@de;
 	skos:hasTopConcept
 		n1:y2p,

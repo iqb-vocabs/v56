@@ -1,7 +1,7 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
-@prefix n0: <https://w3id.org/iqb/vf1/be/#>. 
-@prefix n1: <https://w3id.org/iqb/vf1/be/>. 
+@prefix n0: <https://w3id.org/iqb/v56/be/#>. 
+@prefix n1: <https://w3id.org/iqb/v56/be/>. 
 
 n1:u5q
 	 a skos:Concept;
@@ -42,7 +42,7 @@ n1:x2a
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "2023 erste Fremdsprache ESA und MSA - ESA Sprachbewusstheit"@de;
+	dct:title "Bildungsstandards Fremdsprachen Sek I 2023 - ESA Sprachbewusstheit"@de;
 	dct:description "Sprachbewusstheit beruht auf Wissen über Struktur und Gebrauch der Fremdsprache und anderer Sprachen. In mündlichen und schriftlichen Kommunikationsformen zeigt sich Sprachbewusstheit in der Fähigkeit der Beteiligten, ihre Mitteilungsabsichten sprachlich korrekt und pragmatisch angemessen zu gestalten. Bei der Rezeption von Texten ist Sprachbewusstheit notwendig, um über den Sprachgebrauch nachzudenken, Vergleiche anzustellen und die so gewonnenen Erkenntnisse beim Entwickeln des Textverständnisses zu nutzen. In interaktiven und auf die Produktion von Texten ausgerichteten kommunikativen Situationen ermöglicht die Sprachbewusstheit die Reflexion des (eigenen) Sprachhandelns. Die reflexive Dimension der Kompetenz ist von fundamentaler Bedeutung für das selbstgesteuerte Fremdsprachenlernen und die Entwicklung individueller Mehrsprachigkeit."@de;
 	skos:hasTopConcept
 		n1:u5q,

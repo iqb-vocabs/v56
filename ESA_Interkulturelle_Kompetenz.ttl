@@ -32,7 +32,7 @@ n1:r7y
 	skos:inScheme n0:;
 	skos:notation "5";
 	skos:topConceptOf n0:;
-	skos:prefLabel "(als kulturelle Mittler) die Parteien bei einer Meinungsverschiedenheit bitten, ihr Problem zu erläutern, und kurz darauf reagieren, vorausgesetzt es handelt sich um ein vertrautes Thema und die Beteiligten drücken sich deutlich aus."@de.
+	skos:prefLabel "die in einer Sprache/in anderen Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien für Sprachhandlungen in interkulturellen (Alltags-)Situationen nutzen. Mitunter benötigen sie dabei Hinweise und Unterstützung."@de.
 n1:f4u
 	 a skos:Concept;
 	skos:inScheme n0:;

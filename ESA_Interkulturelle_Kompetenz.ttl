@@ -8,25 +8,25 @@ n1:s9s
 	skos:inScheme n0:;
 	skos:notation "1";
 	skos:topConceptOf n0:;
-	skos:prefLabel "sich der Vielfalt der Sitten und Gebräuche, der Einstellungen, Werte und Überzeugungen verschiedener gesellschaftlicher (einschließlich der eigenen) Gruppen bewusst, können auf entsprechende Signale achten sowie entsprechend wertebezogen und kommunikativ handeln."@de.
+	skos:prefLabel "sich der Vielfalt der Sitten und Gebräuche, der Einstellungen, Werte und Überzeugungen verschiedener gesellschaftlicher (einschließlich der eigenen) Gruppen bewusst, achten auf entsprechende Signale und können sich am interkulturellen Aus tausch beteiligen."@de.
 n1:b3r
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "2";
 	skos:topConceptOf n0:;
-	skos:prefLabel "sich in interkulturellen Situationen der Ähnlichkeiten und Unterschiede von Konventionen (z.B. in Bezug auf Körperhaltung, Blickkontakt und Abstand zu anderen) bewusst und können angemessen damit umgehen."@de.
+	skos:prefLabel "grundlegende kulturelle Konventionen erkennen und praktizieren, die mit sozialen Handlungen im Alltag verbunden sind (z. B. verschiedene Gruß-Ritualen)."@de.
 n1:y7q
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "3";
 	skos:topConceptOf n0:;
-	skos:prefLabel "in interkulturellen Situationen im Rahmen der ihnen zur Verfügung stehenden Mittel mit dem Kommunikationspartner sprachlich angemessen in Bezug auf Situation und Beteiligte agieren."@de.
+	skos:prefLabel "sich in einfachen Worten an interkulturellem Austausch beteiligen, um Erklärungen von Dingen oder Aussagen bitten und dabei das eigene Repertoire einsetzen, um Zustimmung, Einladung, Dank usw. auszudrücken."@de.
 n1:y3z
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "4";
 	skos:topConceptOf n0:;
-	skos:prefLabel "einen interkulturellen Austausch unterstützen, indem sie Offenheit, Interesse und Empathie durch Fragen und die Reaktion auf Fragen zeigen. Dabei sind sie sich der Tatsache bewusst, dass manche Themen und Fragen in den betroffenen Kulturen unterschiedlich wahrgenommen werden können."@de.
+	skos:prefLabel "erkennen (als kulturelle Mittler), wenn Personen anderer Meinung sind oder wenn Schwierigkeiten in der Interaktion auftreten, indem sie den Sachverhalt in einigen Worten erklären, um einen Kompromiss oder eine Einigung zu erzielen. Mitunter benötigen sie dabei Hinweise und Unterstützung."@de.
 n1:r7y
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -38,19 +38,7 @@ n1:f4u
 	skos:inScheme n0:;
 	skos:notation "6";
 	skos:topConceptOf n0:;
-	skos:prefLabel "in einfachen Begriffen diskutieren, wie die kulturell bedingten Handlungen verschiedener gesellschaftlicher (einschließlich der eigenen) Gruppen unterschiedlich wahrgenommen werden können."@de.
-n1:b3u
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "7";
-	skos:topConceptOf n0:;
-	skos:prefLabel "die in einer Sprache/in anderen Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien für Sprachhandlungen in interkulturellen (Alltags-) Situationen in der Regel selbstständig nutzen."@de.
-n1:d9e
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "8";
-	skos:topConceptOf n0:;
-	skos:prefLabel "ihre zur Verfügung stehende interkulturelle Bewusstheit in Alltagskontexten in der Regel selbstständig reflektieren, um mit einer unerwarteten Situation adressaten-, situations- und zweckangemessen umgehen zu können."@de.
+	skos:prefLabel "ihre zur Verfügung stehende interkulturelle Bewusstheit in Alltagskontexten reflektieren, um mit einer unerwarteten Situation umgehen zu können. Mitunter benötigen sie dabei Hinweise und Unterstützung."@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
@@ -62,6 +50,4 @@ n0:
 		n1:y7q,
 		n1:y3z,
 		n1:r7y,
-		n1:f4u,
-		n1:b3u,
-		n1:d9e.
+		n1:f4u.

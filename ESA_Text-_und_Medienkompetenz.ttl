@@ -8,37 +8,37 @@ n1:x5r
 	skos:inScheme n0:;
 	skos:notation "1";
 	skos:topConceptOf n0:;
-	skos:prefLabel "strukturell unkomplizierte (literarisch-ästhetische) Texte zu vertrauten Themen mithilfe sprachlichen, inhaltlichen sowie genre- und medienspezifischen Wissens aufgabenbezogen bzw. zweckgerichtet verstehen, analysieren, deuten und die gewonnenen Aussagen am Text belegen."@de.
+	skos:prefLabel "kurze, einfache (literarisch-ästhetische) Texte zu vertrauten Themen mithilfe ihres sprachlichen, inhaltlichen sowie genre- und medienspezifischen Wissens aufgabenbezogen verstehen, analysieren, deuten und die gewonnenen Aussagen am Text belegen."@de.
 n1:e9d
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "2";
 	skos:topConceptOf n0:;
-	skos:prefLabel "gängige (nicht-)sprachliche Gestaltungsmittel ihnen vertrauter Kommunikations- und Interaktionsformen in der Regel selbstständig erkennen und deuten."@de.
+	skos:prefLabel "einige, besonders häufig verwendete, (nicht-)sprachliche Gestaltungsmittel ihnen vertrauter Kommunikations- und Interaktionsformen erkennen und deuten. Mitunter benötigen sie dabei Hinweise und Unterstützung."@de.
 n1:y9y
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "3";
 	skos:topConceptOf n0:;
-	skos:prefLabel "gängige (nicht-)sprachliche Gestaltungsmittel ihnen vertrauter, auch digitaler Kommunikations- und Interaktionsformen in eigenen Texten aufgabenbezogen bzw. zweckgerichtet in der Regel selbstständig nutzen."@de.
+	skos:prefLabel "einige, besonders häufig verwendete, (nicht-)sprachliche Gestaltungsmittel ihnen vertrauter (digitaler) Kommunikations und Interaktionsformen in eigenen Texten aufgabenbezogen bzw. zweckgerichtet nutzen. Mitunter benötigen sie dabei Hin weise und Unterstützung."@de.
 n1:p2c
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "4";
 	skos:topConceptOf n0:;
-	skos:prefLabel "strukturell unkomplizierte (literarisch-ästhetische) Texte zu vertrauten Themen aufgabenbezogen bzw. zweckgerichtet in ein anderes Genre überführen. Sie können z. B. allgemeine Trends, die in einfachen Diagrammen dargestellt sind, mündlich bzw. schriftlich beschreiben und interpretieren, obgleich ein begrenzter Wortschatz gelegentlich Formulierungsprobleme verursacht."@de.
+	skos:prefLabel "kurze, einfache (literarisch-ästhetische) Texte zu vertrauten Themen aufgabenbezogen bzw. zweckgerichtet in ein anderes Genre überführen. Sie können z. B. die wichtigsten Punkte klar strukturierter, kurzer einfacher Texte in gesprochener und geschriebener Sprache wiedergeben, indem sie andere Mittel (z. B. Gesten, Zeichnungen, Wörter aus anderen Sprachen) zur Ergänzung des begrenzten Repertoires nutzen."@de.
 n1:v3r
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "5";
 	skos:topConceptOf n0:;
-	skos:prefLabel "ihr Erstverstehen auf der Grundlage von knappen Rückmeldungen in der Regel selbstständig kritisch reflektieren, relativieren und ggf. revidieren."@de.
+	skos:prefLabel "ihr Erstverstehen auf der Grundlage von detaillierten Rückmeldungen kritisch reflektieren, relativieren und ggf. revidieren. Mitunter benötigen sie dabei weitere Hinweise und Unterstützung."@de.
 n1:h6e
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "6";
 	skos:topConceptOf n0:;
-	skos:prefLabel "auf ihnen vertraute (digitale) Werkzeuge beim sprachlichen, inhaltlichen und textuellen Verstehen sowie beim Produzieren eigener Texte in der Regel selbstständig zurückgreifen."@de.
+	skos:prefLabel "auf einfache, ihnen vertraute bzw. in der Nutzung intuitiv zugängliche (digitale) Werkzeuge beim sprachlichen, inhaltlichen und textuellen Verstehen sowie beim Produzieren eigener Texte zurückgreifen. Mitunter benötigen sie zur Einschätzung der Ergebnisse noch Hinweise und Unterstützung."@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;

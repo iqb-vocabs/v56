@@ -20,7 +20,7 @@ n1:r9d
 	skos:inScheme n0:;
 	skos:notation "1.3";
 	skos:broader n1:s4e;
-	skos:prefLabel "das Thema und die Hauptaussagen von längeren Gesprächen zwischen Anderen verstehen."@de.
+	skos:prefLabel "das Thema von Gesprächen zwischen Anderen erfassen und erkennen, ob Sprechende in einem Gespräch zustimmen oder nicht."@de.
 n1:p2z
 	 a skos:Concept;
 	skos:inScheme n0:;

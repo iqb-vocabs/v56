@@ -1,11 +1,11 @@
 {
   "name": "v56",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Bildungsstandards Fremdsprachen Sek I 2023",
   "main": "index.js",
   "scripts": {
-    "run_id": "addidcsv",
-    "run_ttl": "csv2ttl"
+    "run_id": "addidcsv csv",
+    "run_ttl": "csv2ttl csv"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/iqb-vocabs/v56#readme",
   "dependencies": {
-    "@iqb/csv2ttl": "^0.6.1"
+    "@iqb/csv2ttl": "^0.7.1"
   }
 }

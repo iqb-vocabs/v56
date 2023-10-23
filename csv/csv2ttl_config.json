@@ -19,6 +19,8 @@
           "value": "ESA Funktionale kommunikative Kompetenz"
         }
       ],
+      "filenameSource": "fe_ESA_Funktionale_kommunikative_Kompetenz.csv",
+      "filenameTarget": "fe_ESA_Funktionale_kommunikative_Kompetenz.ttl",
       "description": [
         {
           "lang": "de",
@@ -34,6 +36,8 @@
           "value": "ESA Interkulturelle Kompetenz"
         }
       ],
+      "filenameSource": "ie_ESA_Interkulturelle_Kompetenz.csv",
+      "filenameTarget": "ie_ESA_Interkulturelle_Kompetenz.ttl",
       "description": [
         {
           "lang": "de",
@@ -49,6 +53,8 @@
           "value": "ESA Sprachbewusstheit"
         }
       ],
+      "filenameSource": "be_ESA_Sprachbewusstheit.csv",
+      "filenameTarget": "be_ESA_Sprachbewusstheit.ttl",
       "description": [
         {
           "lang": "de",
@@ -64,6 +70,8 @@
           "value": "ESA Sprachlernkompetenz"
         }
       ],
+      "filenameSource": "le_ESA_Sprachlernkompetenz.csv",
+      "filenameTarget": "le_ESA_Sprachlernkompetenz.ttl",
       "description": [
         {
           "lang": "de",
@@ -79,6 +87,8 @@
           "value": "ESA Text- und Medienkompetenz"
         }
       ],
+      "filenameSource": "te_ESA_Text-_und_Medienkompetenz.csv",
+      "filenameTarget": "te_ESA_Text-_und_Medienkompetenz.ttl",
       "description": [
         {
           "lang": "de",
@@ -94,6 +104,8 @@
           "value": "ESA Verfügen über sprachliche Mittel"
         }
       ],
+      "filenameSource": "ve_ESA_Verfügen_über_sprachliche_Mittel.csv",
+      "filenameTarget": "ve_ESA_Verfügen_über_sprachliche_Mittel.ttl",
       "description": [
         {
           "lang": "de",
@@ -109,6 +121,8 @@
           "value": "MSA Funktionale kommunikative Kompetenz"
         }
       ],
+      "filenameSource": "fm_MSA_Funktionale_kommunikative_Kompetenz.csv",
+      "filenameTarget": "fm_MSA_Funktionale_kommunikative_Kompetenz.ttl",
       "description": [
         {
           "lang": "de",
@@ -124,6 +138,8 @@
           "value": "MSA Interkulturelle Kompetenz"
         }
       ],
+      "filenameSource": "im_MSA_Interkulturelle_Kompetenz.csv",
+      "filenameTarget": "im_MSA_Interkulturelle_Kompetenz.ttl",
       "description": [
         {
           "lang": "de",
@@ -139,6 +155,8 @@
           "value": "MSA Sprachbewusstheit"
         }
       ],
+      "filenameSource": "bm_MSA_Sprachbewusstheit.csv",
+      "filenameTarget": "bm_MSA_Sprachbewusstheit.ttl",
       "description": [
         {
           "lang": "de",
@@ -154,6 +172,8 @@
           "value": "MSA Sprachlernkompetenz"
         }
       ],
+      "filenameSource": "lm_MSA_Sprachlernkompetenz.csv",
+      "filenameTarget": "lm_MSA_Sprachlernkompetenz.ttl",
       "description": [
         {
           "lang": "de",
@@ -169,6 +189,8 @@
           "value": "MSA Text- und Medienkompetenz"
         }
       ],
+      "filenameSource": "tm_MSA_Text-_und_Medienkompetenz.csv",
+      "filenameTarget": "tm_MSA_Text-_und_Medienkompetenz.ttl",
       "description": [
         {
           "lang": "de",
@@ -184,6 +206,8 @@
           "value": "MSA Verfügen über sprachliche Mittel"
         }
       ],
+      "filenameSource": "vm_MSA_Text-_und_Medienkompetenz.csv",
+      "filenameTarget": "vm_MSA_Text-_und_Medienkompetenz.ttl",
       "description": [
         {
           "lang": "de",

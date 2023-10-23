@@ -104,8 +104,8 @@
           "value": "ESA Verfügen über sprachliche Mittel"
         }
       ],
-      "filenameSource": "ve_ESA_Verfügen_über_sprachliche_Mittel.csv",
-      "filenameTarget": "ve_ESA_Verfügen_über_sprachliche_Mittel.ttl",
+      "filenameSource": "ve_ESA_Verfuegen_ueber_sprachliche_Mittel.csv",
+      "filenameTarget": "ve_ESA_Verfuegen_ueber_sprachliche_Mittel.ttl",
       "description": [
         {
           "lang": "de",
@@ -206,8 +206,8 @@
           "value": "MSA Verfügen über sprachliche Mittel"
         }
       ],
-      "filenameSource": "vm_MSA_Text-_und_Medienkompetenz.csv",
-      "filenameTarget": "vm_MSA_Text-_und_Medienkompetenz.ttl",
+      "filenameSource": "vm_MSA_Verfuegen_ueber_sprachliche_Mittel.csv",
+      "filenameTarget": "vm_MSA_Verfuegen_ueber_sprachliche_Mittel.ttl",
       "description": [
         {
           "lang": "de",

@@ -6,7 +6,7 @@
       "value": "Bildungsstandards Fremdsprachen Sek I 2023"
     }
   ],
-  "csv_delimiter": ";",
+  "csv_delimiter": ",",
   "base": "https://w3id.org/iqb/v56",
   "outDir": "./",
   "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",

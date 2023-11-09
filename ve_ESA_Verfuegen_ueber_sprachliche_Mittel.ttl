@@ -45,7 +45,7 @@ n1:y7b
 	skos:notation "1";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Lexiko-Grammatik"@de; 
-	skos:description "Die Schülerinnen und Schüler verfügen über ein Repertoire an elementaren sprachlichen Mitteln, mit denen sie vertraute Situationen mit vorhersagbaren Inhalten bewältigen können."@de ;
+	skos:definition "Die Schülerinnen und Schüler verfügen über ein Repertoire an elementaren sprachlichen Mitteln, mit denen sie vertraute Situationen mit vorhersagbaren Inhalten bewältigen können. Die Schülerinnen und Schüler können"@de ;
 	skos:narrower 
 		n1:b4d,
 		n1:h2p,
@@ -59,12 +59,12 @@ n1:b4s
 	skos:notation "2";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Aussprache und Prosodie"@de; 
-	skos:description "Die Aussprache der Schülerinnen und Schüler ist im Allgemeinen klar genug um verstanden zu werden, wenn sie in einfachen Alltagssituationen kommunizieren und sofern sich die Gesprächspartnerinnen und Gesprächspartner bemühen zu verstehen, indem sie z. B. um Wiederholungen bitten oder den Einfluss des sprachlichen Hintergrunds der Schülerinnen und Schüler erkennen und sich darauf einstellen."@de. 
+	skos:definition "Die Aussprache der Schülerinnen und Schüler ist im Allgemeinen klar genug um verstanden zu werden, wenn sie in einfachen Alltagssituationen kommunizieren und sofern sich die Gesprächspartnerinnen und Gesprächspartner bemühen zu verstehen, indem sie z. B. um Wiederholungen bitten oder den Einfluss des sprachlichen Hintergrunds der Schülerinnen und Schüler erkennen und sich darauf einstellen."@de. 
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Bildungsstandards Fremdsprachen Sek I 2023 - ESA Verfügen über sprachliche Mittel"@de;
-	dct:description "Verfügen über sprachliche Mittel;Die sprachlichen Mittel – Wortschatz, Grammatik, Aussprache, Prosodie und Orthographie – sind Kompetenz bildende, funktionale Bestandteile des sprachlichen Systems und der Kommunikation. In der Vermittlung und bei der Aneignung der funktionalen kommunikativen Kompetenz haben die sprachlichen Mittel allerdings grundsätzlich dienende Funktion, da die gelingende Kommunikation im Vordergrund steht. Die kommunikativen Ziele können – u.a. abhängig vom erreichten Kompetenzniveau und der Kooperationsbereitschaft der Kommunikationspartnerinnen und -partner – mit unterschiedlichen sprachlichen Mitteln erreicht werden. Bei der Auswahl der zu vermittelnden sprachlichen Mittel sollte daher von einer kommunikativen Progression ausgegangen wer den, während die sprachstrukturelle Progression eine nachgeordnete, dienende Funktion hat. Die Vermittlung und die Aneignung von Wortschatz im Sinne komplexer lexiko-grammatischer Einheiten sind mit Blick auf die funktionale kommunikative Kompetenz zentral."@de;
+	dct:description "Die sprachlichen Mittel – Wortschatz, Grammatik, Aussprache, Prosodie und Orthographie – sind Kompetenz bildende, funktionale Bestandteile des sprachlichen Systems und der Kommunikation. In der Vermittlung und bei der Aneignung der funktionalen kommunikativen Kompetenz haben die sprachlichen Mittel allerdings grundsätzlich dienende Funktion, da die gelingende Kommunikation im Vordergrund steht. Die kommunikativen Ziele können – u.a. abhängig vom erreichten Kompetenzniveau und der Kooperationsbereitschaft der Kommunikationspartnerinnen und -partner – mit unterschiedlichen sprachlichen Mitteln erreicht werden. Bei der Auswahl der zu vermittelnden sprachlichen Mittel sollte daher von einer kommunikativen Progression ausgegangen werden, während die sprachstrukturelle Progression eine nachgeordnete, dienende Funktion hat. Die Vermittlung und die Aneignung von Wortschatz im Sinne komplexer lexiko-grammatischer Einheiten sind mit Blick auf die funktionale kommunikative Kompetenz zentral."@de;
 	skos:hasTopConcept
 		n1:y7b,
 		n1:b4s.

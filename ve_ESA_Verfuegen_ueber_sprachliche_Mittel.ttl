@@ -45,7 +45,7 @@ n1:y7b
 	skos:notation "1";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Lexiko-Grammatik"@de; 
-	skos:definition "Die Schülerinnen und Schüler verfügen über ein Repertoire an elementaren sprachlichen Mitteln, mit denen sie vertraute Situationen mit vorhersagbaren Inhalten bewältigen können. Die Schülerinnen und Schüler können"@de ;
+	skos:definition """Die Schülerinnen und Schüler verfügen über ein Repertoire an elementaren sprachlichen Mitteln, mit denen sie vertraute Situationen mit vorhersagbaren Inhalten bewältigen können. \n\n Die Schülerinnen und Schüler können"""@de ;
 	skos:narrower 
 		n1:b4d,
 		n1:h2p,

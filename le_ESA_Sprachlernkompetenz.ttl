@@ -45,12 +45,6 @@ n1:y9v
 	skos:notation "7";
 	skos:topConceptOf n0:;
 	skos:prefLabel "die in einer Sprache/anderen Sprachen verfügbaren Kenntnisse und Erfahrungen aus dem Erlernen anderer Sprachen zur Optimierung ihrer Sprachlernprozesse nutzen. Mitunter benötigen sie dabei Hinweise und Unterstützung."@de.
-n1:f4g
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "8";
-	skos:topConceptOf n0:;
-	skos:prefLabel "extra"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
@@ -65,5 +59,4 @@ Die Schülerinnen und Schüler sind/können"""@de;
 		n1:q7d,
 		n1:z4v,
 		n1:p9b,
-		n1:y9v,
-		n1:f4g.
+		n1:y9v.

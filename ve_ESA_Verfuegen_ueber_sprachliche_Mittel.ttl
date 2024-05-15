@@ -1,5 +1,6 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
 @prefix n0: <https://w3id.org/iqb/v56/ve/>. 
 @prefix n1: <https://w3id.org/iqb/v56/ve/>. 
 
@@ -45,7 +46,7 @@ n1:y7b
 	skos:notation "1";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Lexiko-Grammatik"@de; 
-	skos:definition """Die Schülerinnen und Schüler verfügen über ein Repertoire an elementaren sprachlichen Mitteln, mit denen sie vertraute Situationen mit vorhersagbaren Inhalten bewältigen können. \n\n Die Schülerinnen und Schüler können"""@de ;
+	skos:definition """Die Schülerinnen und Schüler verfügen über ein Repertoire an elementaren sprachlichen Mitteln, mit denen sie vertraute Situationen mit vorhersagbaren Inhalten bewältigen können. \n\n Die Schülerinnen und Schüler können"""@de;
 	skos:narrower 
 		n1:b4d,
 		n1:h2p,
@@ -59,7 +60,7 @@ n1:b4s
 	skos:notation "2";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Aussprache und Prosodie"@de; 
-	skos:definition "Die Aussprache der Schülerinnen und Schüler ist im Allgemeinen klar genug um verstanden zu werden, wenn sie in einfachen Alltagssituationen kommunizieren und sofern sich die Gesprächspartnerinnen und Gesprächspartner bemühen zu verstehen, indem sie z. B. um Wiederholungen bitten oder den Einfluss des sprachlichen Hintergrunds der Schülerinnen und Schüler erkennen und sich darauf einstellen."@de. 
+	skos:definition "Die Aussprache der Schülerinnen und Schüler ist im Allgemeinen klar genug um verstanden zu werden, wenn sie in einfachen Alltagssituationen kommunizieren und sofern sich die Gesprächspartnerinnen und Gesprächspartner bemühen zu verstehen, indem sie z. B. um Wiederholungen bitten oder den Einfluss des sprachlichen Hintergrunds der Schülerinnen und Schüler erkennen und sich darauf einstellen."@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;

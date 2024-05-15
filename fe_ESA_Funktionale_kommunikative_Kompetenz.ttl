@@ -1,5 +1,6 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
 @prefix n0: <https://w3id.org/iqb/v56/fe/>. 
 @prefix n1: <https://w3id.org/iqb/v56/fe/>. 
 
@@ -57,7 +58,7 @@ n1:s4e
 	skos:notation "1";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Rezeption: Hörverstehen / audiovisuelles Verstehen"@de; 
-	skos:definition """Hörverstehen ermöglicht die Teilhabe an Kommunikationssituationen, in denen die Rezeption von auditiv vermittelten Texten im Mittelpunkt steht. Die Anforderungen in den rezeptiven Anteilen solcher Kommunikationssituationen werden durch die Merkmale der Hörtexte geprägt (z. B. Flüchtigkeit des Gesagten, Phänomene gesprochener Sprache wie unvollständige Sätze und ggfs. undeutliche Aussprache) und hängen außerdem von den konkreten Verstehensabsichten ab (z. B. das Thema erfassen, die eher implizit vermittelte Meinung der sprechenden Person zum Thema verstehen, sich eine ganz bestimmte Information merken). Audiovisuelles Verstehen ist, wie das Hörverstehen, auf die Verarbeitung von (eher) mündlichen Texten ausgerichtet. Die Modalität der zu verarbeitenden Informationen wird durch ein visuelles Medium erweitert, ggf. auch durch weitere Medien, insbesondere in digital vermittelten mündlichen Texten. Diese Art des Textverstehens entspricht demnach der Fähigkeit, mit lautlich, sprachlich und visuell kodierten Texten gleich zeitig umzugehen. \n\n Die Schülerinnen und Schüler können"""@de ;
+	skos:definition """Hörverstehen ermöglicht die Teilhabe an Kommunikationssituationen, in denen die Rezeption von auditiv vermittelten Texten im Mittelpunkt steht. Die Anforderungen in den rezeptiven Anteilen solcher Kommunikationssituationen werden durch die Merkmale der Hörtexte geprägt (z. B. Flüchtigkeit des Gesagten, Phänomene gesprochener Sprache wie unvollständige Sätze und ggfs. undeutliche Aussprache) und hängen außerdem von den konkreten Verstehensabsichten ab (z. B. das Thema erfassen, die eher implizit vermittelte Meinung der sprechenden Person zum Thema verstehen, sich eine ganz bestimmte Information merken). Audiovisuelles Verstehen ist, wie das Hörverstehen, auf die Verarbeitung von (eher) mündlichen Texten ausgerichtet. Die Modalität der zu verarbeitenden Informationen wird durch ein visuelles Medium erweitert, ggf. auch durch weitere Medien, insbesondere in digital vermittelten mündlichen Texten. Diese Art des Textverstehens entspricht demnach der Fähigkeit, mit lautlich, sprachlich und visuell kodierten Texten gleich zeitig umzugehen. \n\n Die Schülerinnen und Schüler können"""@de;
 	skos:narrower 
 		n1:b7t,
 		n1:f7f,
@@ -133,7 +134,7 @@ n1:p4q
 	skos:notation "2";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Rezeption: Leseverstehen"@de; 
-	skos:definition """Das Leseverstehen ermöglicht die Teilhabe an Kommunikationssituationen, in denen die Rezeption schriftlich vermittelter Texte im Mittel punkt steht. Die Anforderungen in den rezeptiven Anteilen solcher Kommunikationssituationen werden durch Merkmale der Texte (z. B. Länge, sprachliche Komplexität, Struktur oder Genre) und durch spezifische Verstehensabsichten (z. B. das Thema erfassen, eine bestimmte Information auffinden) geprägt. \n\n Die Schülerinnen und Schüler können"""@de ;
+	skos:definition """Das Leseverstehen ermöglicht die Teilhabe an Kommunikationssituationen, in denen die Rezeption schriftlich vermittelter Texte im Mittel punkt steht. Die Anforderungen in den rezeptiven Anteilen solcher Kommunikationssituationen werden durch Merkmale der Texte (z. B. Länge, sprachliche Komplexität, Struktur oder Genre) und durch spezifische Verstehensabsichten (z. B. das Thema erfassen, eine bestimmte Information auffinden) geprägt. \n\n Die Schülerinnen und Schüler können"""@de;
 	skos:narrower 
 		n1:f6z,
 		n1:t7x,
@@ -211,7 +212,7 @@ n1:p7b
 	skos:notation "3.1";
 	skos:broader n1:r6v;
 	skos:prefLabel "Mündliche Interaktion"@de; 
-	skos:definition "Die Schülerinnen und Schüler können"@de ;
+	skos:definition "Die Schülerinnen und Schüler können"@de;
 	skos:narrower 
 		n1:q7z,
 		n1:h7r,
@@ -271,7 +272,7 @@ n1:h4e
 	skos:notation "3.2";
 	skos:broader n1:r6v;
 	skos:prefLabel "Mündliche Produktion"@de; 
-	skos:definition "Die Schülerinnen und Schüler können"@de ;
+	skos:definition "Die Schülerinnen und Schüler können"@de;
 	skos:narrower 
 		n1:q2z,
 		n1:f5u,
@@ -286,7 +287,7 @@ n1:r6v
 	skos:notation "3";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Sprechen"@de; 
-	skos:definition "Sprechen ist auf die Produktion mündlicher Texte ausgerichtet. Dabei ist Sprechen stets – selbst in der Form eines Vortrags – ein interaktiver Vorgang, da die Reaktionen eines Publikums u.a. eingeplant, antizipiert, aufgegriffen werden. Im Folgenden wird jedoch unterschieden zwischen mündlicher Interaktion als Form dialogischen Sprechens und mündlicher Produktion als Form monologischen Sprechens, da diese jeweils unterschiedliche Teilkompetenzen und Strategien erfordern. Beide Formen mündlicher Kommunikation umfassen narrative, expositorische und argumentative Genres, die für die Alltagskommunikation der Schülerinnen und Schüler relevant sind. Diese Kommunikation findet sowohl face-to-face als auch im digitalen Raum statt. So sind durch den Einsatz digitaler Medien neue Formen der Mündlichkeit entstanden."@de ;
+	skos:definition "Sprechen ist auf die Produktion mündlicher Texte ausgerichtet. Dabei ist Sprechen stets – selbst in der Form eines Vortrags – ein interaktiver Vorgang, da die Reaktionen eines Publikums u.a. eingeplant, antizipiert, aufgegriffen werden. Im Folgenden wird jedoch unterschieden zwischen mündlicher Interaktion als Form dialogischen Sprechens und mündlicher Produktion als Form monologischen Sprechens, da diese jeweils unterschiedliche Teilkompetenzen und Strategien erfordern. Beide Formen mündlicher Kommunikation umfassen narrative, expositorische und argumentative Genres, die für die Alltagskommunikation der Schülerinnen und Schüler relevant sind. Diese Kommunikation findet sowohl face-to-face als auch im digitalen Raum statt. So sind durch den Einsatz digitaler Medien neue Formen der Mündlichkeit entstanden."@de;
 	skos:narrower 
 		n1:p7b,
 		n1:h4e.
@@ -356,7 +357,7 @@ n1:q4q
 	skos:notation "4.1";
 	skos:broader n1:z2p;
 	skos:prefLabel "Schriftliche Interaktion"@de; 
-	skos:definition "Die Schülerinnen und Schüler können"@de ;
+	skos:definition "Die Schülerinnen und Schüler können"@de;
 	skos:narrower 
 		n1:z5s,
 		n1:c3p,
@@ -404,7 +405,7 @@ n1:z3y
 	skos:notation "4.2";
 	skos:broader n1:z2p;
 	skos:prefLabel "Schriftliche Produktion"@de; 
-	skos:definition "Die Schülerinnen und Schüler können"@de ;
+	skos:definition "Die Schülerinnen und Schüler können"@de;
 	skos:narrower 
 		n1:s4b,
 		n1:u2u,
@@ -417,7 +418,7 @@ n1:z2p
 	skos:notation "4";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Schreiben"@de; 
-	skos:definition "Schreiben ist auf die Produktion schriftlicher Texte ausgerichtet. Dabei ist es in der Regel eine auf die zwischenmenschliche Kommunikation zielende Aktivität, die allerdings auch individuellen Lern-, Erkenntnis- und Reflexionsprozessen dienen kann. Es wird jedoch im Folgenden zwischen schriftlicher Interaktion (Kommunikation zwischen zwei oder mehreren Partnern) und schriftlicher Produktion (Verfassen von Texten, die keine direkte Reaktion beabsichtigen) unterschieden, da sie unterschiedliche Teilkompetenzen und Strategien erfordern. Die schriftliche Kommunikation umfasst unterschiedliche Genres, d.h. diskurse Textformen, die für die Alltagskommunikation der Schülerinnen und Schüler relevant sind. Durch die digitale Transformation hat die schriftliche Kommunikation an Bedeutung gewonnen und neue (multimodale) Textsorten sind entstanden."@de ;
+	skos:definition "Schreiben ist auf die Produktion schriftlicher Texte ausgerichtet. Dabei ist es in der Regel eine auf die zwischenmenschliche Kommunikation zielende Aktivität, die allerdings auch individuellen Lern-, Erkenntnis- und Reflexionsprozessen dienen kann. Es wird jedoch im Folgenden zwischen schriftlicher Interaktion (Kommunikation zwischen zwei oder mehreren Partnern) und schriftlicher Produktion (Verfassen von Texten, die keine direkte Reaktion beabsichtigen) unterschieden, da sie unterschiedliche Teilkompetenzen und Strategien erfordern. Die schriftliche Kommunikation umfasst unterschiedliche Genres, d.h. diskurse Textformen, die für die Alltagskommunikation der Schülerinnen und Schüler relevant sind. Durch die digitale Transformation hat die schriftliche Kommunikation an Bedeutung gewonnen und neue (multimodale) Textsorten sind entstanden."@de;
 	skos:narrower 
 		n1:q4q,
 		n1:z3y.
@@ -457,7 +458,7 @@ n1:q4r
 	skos:notation "5";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Mediation / Sprachmittlung"@de; 
-	skos:definition """Mediation ist ein interaktiver Prozess, mit dem Kommunikation, Verständnis und Kooperation zwischen Personen ermöglicht und aufrechterhalten werden. Dieser Prozess vollzieht sich zum Beispiel beim Mitteln von Textinhalten und Konzepten sowie beim Ermöglichen und Gestalten von Kommunikation zwischen Menschen, die aufgrund ihrer Herkunft und Erfahrungen unterschiedliche individuelle, soziale, kulturelle oder sprachliche Grundlagen und Kompetenzen haben. Diese können zu verschiedenen kommunikativ-interaktiven Voraussetzungen und folglich unterschiedlichen Verstehensmöglichkeiten führen und eine Verständigung beeinträchtigen. Sprachmittlung umfasst die sprachlichen Prozesse der Mediation. Sprachmittlung besteht in der adressaten-, situations- und zweckangemessenen Übertragung von Informationen aus einer Sprache A in eine Sprache B für andere Personen, die anderenfalls keinen Zugang zu diesen Informationen hätten. Damit ist die Sprachmittlung eine interaktive kommunikative Kompetenz, die auf andere (fremdsprachliche) Kompetenzbereiche zurückgreift. Die Anforderungen ergeben sich aus der Vertrautheit mit den zu mittelnden Informationen, der Richtung, in der die Sprachmittlung erfolgt sowie ggf. dem Wechsel zwischen verschiedenen sprachlichen Repräsentationsformen (z. B. vom Hören zum Schreiben, vom Lesen zum Sprechen). \n\n Die Schülerinnen und Schüler können im Rahmen der ihnen zur Verfügung stehenden rezeptiven und produktiven sowie interaktionalen Teilkompetenzen adressaten-, situations- und zweckangemessen"""@de ;
+	skos:definition """Mediation ist ein interaktiver Prozess, mit dem Kommunikation, Verständnis und Kooperation zwischen Personen ermöglicht und aufrechterhalten werden. Dieser Prozess vollzieht sich zum Beispiel beim Mitteln von Textinhalten und Konzepten sowie beim Ermöglichen und Gestalten von Kommunikation zwischen Menschen, die aufgrund ihrer Herkunft und Erfahrungen unterschiedliche individuelle, soziale, kulturelle oder sprachliche Grundlagen und Kompetenzen haben. Diese können zu verschiedenen kommunikativ-interaktiven Voraussetzungen und folglich unterschiedlichen Verstehensmöglichkeiten führen und eine Verständigung beeinträchtigen. Sprachmittlung umfasst die sprachlichen Prozesse der Mediation. Sprachmittlung besteht in der adressaten-, situations- und zweckangemessenen Übertragung von Informationen aus einer Sprache A in eine Sprache B für andere Personen, die anderenfalls keinen Zugang zu diesen Informationen hätten. Damit ist die Sprachmittlung eine interaktive kommunikative Kompetenz, die auf andere (fremdsprachliche) Kompetenzbereiche zurückgreift. Die Anforderungen ergeben sich aus der Vertrautheit mit den zu mittelnden Informationen, der Richtung, in der die Sprachmittlung erfolgt sowie ggf. dem Wechsel zwischen verschiedenen sprachlichen Repräsentationsformen (z. B. vom Hören zum Schreiben, vom Lesen zum Sprechen). \n\n Die Schülerinnen und Schüler können im Rahmen der ihnen zur Verfügung stehenden rezeptiven und produktiven sowie interaktionalen Teilkompetenzen adressaten-, situations- und zweckangemessen"""@de;
 	skos:narrower 
 		n1:e3a,
 		n1:v2z,
